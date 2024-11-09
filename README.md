@@ -1,11 +1,3 @@
-# Sample Snack app
+Climatic
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+In **Climatic**, which is a Weather App, I used '**React Native**' to build a smooth and responsive app that fetches weather data in real-time. By using '**fetch()**', I retrieve data from an external weather API, pulling key details like temperature, humidity, and a description of the weather based on latitude and longitude coordinates. When the app first loads, it shows a "loading..." message, keeping the user informed until the data is fetched. Once the data is available, the app dynamically displays the weather details. I also integrated local assets, like images, using '**require()**', which adds a visual layer to the app. I also used '**React Native's StyleSheet**' to ensure a clean, mobile-friendly user interface. It’s designed to adapt well across different screen sizes, making it a responsive and user-friendly experience!
